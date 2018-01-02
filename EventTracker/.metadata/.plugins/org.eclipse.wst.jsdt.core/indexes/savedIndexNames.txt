@@ -1,0 +1,1 @@
+INDEX VERSION 1.4+/Users/davidchirdon/SD/EventTracker/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
